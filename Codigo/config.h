@@ -1,6 +1,6 @@
 /************************ Adafruit IO Config *******************************/
 
-#define IO_USERNAME "Victor24"
+#define IO_USERNAME "overjamaya"
 #define IO_KEY "aio_MwKp85LN2D9N0y0FmmIkdRMwco7t"
 
 /******************************* WIFI **************************************/
